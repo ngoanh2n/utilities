@@ -11,7 +11,7 @@ jackson-databind  = "2.18.0"
 juniversalchardet = "2.5.0"
 selenium          = "4.25.0"
 testng            = "7.10.2"
-junit-jupiter     = "5.11.2"
+junit-jupiter     = "5.11.3"
 junit-platform    = "1.11.3"
 
 [libraries]
