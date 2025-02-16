@@ -10,7 +10,7 @@ commons-lang3     = "3.17.0"
 jackson-databind  = "2.18.2"
 juniversalchardet = "2.5.0"
 selenium          = "4.28.1"
-testng            = "7.10.2"
+testng            = "7.11.0"
 junit-jupiter     = "5.11.4"
 junit-platform    = "1.11.4"
 
